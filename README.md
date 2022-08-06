@@ -1,5 +1,15 @@
 # (Incomplete) List of FOSS Game Engines
 
+## DevilutionX
+
+Repository: https://github.com/diasurgical/devilutionX
+
+Written in: C++
+
+Intended for: Run Diablo and Hellfire on modern computers
+
+Remarks: DevilutionX is a source port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features.
+
 ## Godot
 
 Repository: https://github.com/godotengine/godot
