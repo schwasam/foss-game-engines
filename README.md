@@ -38,7 +38,7 @@ Written in: C++, Python
 
 Intended for: RTS games
 
-Remarks: Engine clone of the Genie Engine that was used for Age of Empires, Age of Empires II (HD) and Star Wars: Galactic Battlegrounds.
+Remarks: Engine clone of the Genie Engine that Ensemble Studios used for Age of Empires, Age of Empires II (HD) and Star Wars: Galactic Battlegrounds.
 
 ## OpenRA
 
@@ -48,7 +48,7 @@ Written in: C#, Lua
 
 Intended for: RTS games
 
-Remarks: A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
+Remarks: A Libre/Free Real Time Strategy game engine supporting early Westwood Studios classics.
 
 ## Spring
 
